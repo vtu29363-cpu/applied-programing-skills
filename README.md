@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -30,4 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
