@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0876-middle-of-the-linked-list) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0025-reverse-nodes-in-k-group) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
