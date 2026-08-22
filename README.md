@@ -98,4 +98,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0946-validate-stack-sequences) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0199-binary-tree-right-side-view) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0199-binary-tree-right-side-view) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
