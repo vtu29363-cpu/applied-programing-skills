@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0219-contains-duplicate-ii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0735-asteroid-collision) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0621-task-scheduler) |
 ## Binary Lifting
 |  |
