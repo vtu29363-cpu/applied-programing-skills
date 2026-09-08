@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0946-validate-stack-sequences) |
+| [0994-rotting-oranges](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0994-rotting-oranges) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Dynamic Programming
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/1971-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
