@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0933-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0155-min-stack) |
+| [0933-number-of-recent-calls](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0933-number-of-recent-calls) |
 ## Simulation
 |  |
 | ------- |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
