@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0946-validate-stack-sequences) |
+| [0973-k-closest-points-to-origin](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0994-rotting-oranges) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0973-k-closest-points-to-origin) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Monotonic Stack
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0621-task-scheduler) |
+| [0973-k-closest-points-to-origin](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0621-task-scheduler) |
+| [0973-k-closest-points-to-origin](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -219,11 +223,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0973-k-closest-points-to-origin) |
 | [1763-longest-nice-substring](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/1763-longest-nice-substring) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0973-k-closest-points-to-origin) |
 ## Union-Find
 |  |
 | ------- |
@@ -262,4 +268,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0190-reverse-bits) |
 | [1763-longest-nice-substring](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/1763-longest-nice-substring) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
