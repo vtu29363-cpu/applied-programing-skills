@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0474-ones-and-zeroes](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0474-ones-and-zeroes) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1763-longest-nice-substring](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/1763-longest-nice-substring) |
 ## Hash Table
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0219-contains-duplicate-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0474-ones-and-zeroes](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0735-asteroid-collision) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0198-house-robber) |
+| [0474-ones-and-zeroes](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0474-ones-and-zeroes) |
 | [0746-min-cost-climbing-stairs](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0746-min-cost-climbing-stairs) |
 ## Linked List
 |  |
@@ -292,4 +295,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0474-ones-and-zeroes) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
