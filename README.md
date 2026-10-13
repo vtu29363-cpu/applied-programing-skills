@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0219-contains-duplicate-ii) |
+| [0322-coin-change](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0474-ones-and-zeroes](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0496-next-greater-element-i) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0474-ones-and-zeroes) |
 | [0746-min-cost-climbing-stairs](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0746-min-cost-climbing-stairs) |
 ## Linked List
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0994-rotting-oranges) |
@@ -298,9 +301,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0474-ones-and-zeroes) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0474-ones-and-zeroes) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
