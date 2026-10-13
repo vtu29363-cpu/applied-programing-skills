@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0496-next-greater-element-i) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0621-task-scheduler) |
 ## Array
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0219-contains-duplicate-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -209,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -243,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0933-number-of-recent-calls) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
