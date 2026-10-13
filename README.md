@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0621-task-scheduler) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu29363-cpu/applied-programing-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
